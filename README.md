@@ -30,11 +30,11 @@ npm i @babel/core@7.13.14 @babel/generator@7.13.9 @babel/parser@7.13.13 @babel/t
 
 **_console.log 的 ast 语法树：_**
 
-![image-20241225120338620](/Users/wkh/code/project/babel/insert-console-log/assets/image-20241225120338620.png)
+![image-20241225120338620](./assets/image-20241225120338620.png)
 
-![image-20241225120418340](/Users/wkh/code/project/babel/insert-console-log/assets/image-20241225120418340.png)
+![image-20241225120418340](./assets/image-20241225120418340.png)
 
-![image-20241225120439797](/Users/wkh/code/project/babel/insert-console-log/assets/image-20241225120439797.png)
+![image-20241225120439797](./assets/image-20241225120439797.png)
 
 ### 思路分析
 
